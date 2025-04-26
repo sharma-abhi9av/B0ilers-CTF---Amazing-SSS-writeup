@@ -22,11 +22,11 @@ Well I have be honest i randomly picked this one and turns out this is a react a
 
 The web app shows a link named Flag
 
-![](/home/mh/.config/marktext/images/2025-04-24-15-43-48-image.png)
+![](assets/2025-04-24-15-43-48-image.png)
 
 Clicking the link leads to 404. I figured this is because of github not being compatible with `react-router-dom` a library used for client side routing for react SPA (Single Page Application)
 
-![](/home/mh/.config/marktext/images/2025-04-24-15-44-26-image.png) 
+![](assets/2025-04-24-15-44-26-image.png) 
 
 Inspecting code in the browser speicially the js file shows that the code is obfuscated and there is no direct way to see the and understand the text
 
@@ -103,7 +103,7 @@ python -m http.server 1234
 
 ## Step 4: Open url in the browser and get the flag
 
-![](/home/mh/.config/marktext/images/2025-04-24-16-35-27-image.png)
+![](assets/2025-04-24-16-35-27-image.png)
 
 ---
 

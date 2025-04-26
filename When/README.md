@@ -28,11 +28,11 @@ node solution.js
 
 You are given a link to a webpage `https://when.atreides.b01lersc.tf/`. Visiting this page shows following interface
 
-![](/home/mh/.config/marktext/images/2025-04-26-09-36-37-image.png)
+![](assets/2025-04-26-09-36-37-image.png)
 
 An attempt to gamble shows similar output to this 
 
-![](/home/mh/.config/marktext/images/2025-04-26-09-37-49-image.png)
+![](assets/2025-04-26-09-37-49-image.png)
 
 Now after taking a look that the client source i see this 
 
