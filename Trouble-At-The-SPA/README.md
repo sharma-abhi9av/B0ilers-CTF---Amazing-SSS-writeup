@@ -26,7 +26,7 @@ The web app shows a link named Flag
 
 Clicking the link leads to 404. I figured this is because of github not being compatible with `react-router-dom` a library used for client side routing for react SPA (Single Page Application)
 
-![](assets/2025-04-24-15-44-26-image.png) 
+![](assets/2025-04-24-15-44-23-image.png) 
 
 Inspecting code in the browser speicially the js file shows that the code is obfuscated and there is no direct way to see the and understand the text
 
